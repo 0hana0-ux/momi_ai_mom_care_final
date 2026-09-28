@@ -1,0 +1,18 @@
+﻿column_name,display_name,unit
+height_cm,Height,cm
+weight_kg,Weight,kg
+waist_cm,Waist circumference,cm
+bmi,BMI,kg/m²
+systolic_bp_mmhg,Systolic blood pressure,mmHg
+diastolic_bp_mmhg,Diastolic blood pressure,mmHg
+hemoglobin_g_dl,Hemoglobin,g/dL
+fasting_glucose_mg_dl,Fasting glucose,mg/dL
+hba1c_percent,HbA1c,%
+total_cholesterol_mg_dl,Total cholesterol,mg/dL
+hdl_cholesterol_mg_dl,HDL cholesterol,mg/dL
+triglycerides_mg_dl,Triglycerides,mg/dL
+ldl_cholesterol_mg_dl,LDL cholesterol,mg/dL
+hs_crp_mg_l,High-sensitivity C-reactive protein,mg/L
+ast_u_l,AST (SGOT),U/L
+alt_u_l,ALT (SGPT),U/L
+ggt_u_l,Gamma-GTP (γ-GTP),U/L
